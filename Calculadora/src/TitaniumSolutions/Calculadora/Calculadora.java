@@ -1,6 +1,5 @@
 package TitaniumSolutions.Calculadora;
 import TitaniumSolutions.Calcular.Calcular;
-
 import java.util.Scanner;
 
 public class Calculadora {

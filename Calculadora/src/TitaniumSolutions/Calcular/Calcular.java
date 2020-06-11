@@ -26,23 +26,19 @@ public class Calcular {
     }
 
     public int suma(int num1, int num2) {
-        int num3 = num1 + num2;
-        return num3;
+        return num1 + num2;
     }
 
     public int resta(int num1, int num2) {
-        int num3 = num1 - num2;
-        return num3;
+        return num1 - num2;
     }
 
     public int multiplicacion(int num1, int num2) {
-        int num3 = num1 * num2;
-        return num3;
+        return num1 * num2;
     }
 
     public float division(int num1, int num2) {
-        float num3 = (num1 / num2);
-        return num3;
+        return ((float)(num1 / num2));
     }
 
 }
