@@ -1,1 +1,2 @@
-Calculadora/.idea/*.xml
+*.xml
+**Calculadora/.idea/workspace.xml
