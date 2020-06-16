@@ -56,7 +56,7 @@ public class Contador {
                 Matcher mat3 = comp3.matcher(linea);
 
                 //Creamos un objeto de la clase Pattern para poder comparar este contenido de String
-                Pattern comp4 = Pattern.compile("null");
+                Pattern comp4 = Pattern.compile("^");
                 //Hace la comparacion con "linea"
                 Matcher mat4 = comp4.matcher(linea);
 
