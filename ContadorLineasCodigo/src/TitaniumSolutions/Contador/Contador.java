@@ -71,6 +71,7 @@ public class Contador {
                 }
             }
                 //Mostramos número de lineas leidas
+                System.out.println();
                 System.out.println("El número de lineas leidas de código en el archivo es de: " + numLineas);
 
         }catch (Exception e){
